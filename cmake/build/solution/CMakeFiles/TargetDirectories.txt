@@ -1,0 +1,14 @@
+D:/git/protobuf-3.7.1/cmake/build/solution/CMakeFiles/libprotobuf-lite.dir
+D:/git/protobuf-3.7.1/cmake/build/solution/CMakeFiles/protoc.dir
+D:/git/protobuf-3.7.1/cmake/build/solution/CMakeFiles/libprotoc.dir
+D:/git/protobuf-3.7.1/cmake/build/solution/CMakeFiles/libprotobuf.dir
+D:/git/protobuf-3.7.1/cmake/build/solution/CMakeFiles/lite-test.dir
+D:/git/protobuf-3.7.1/cmake/build/solution/CMakeFiles/gmock_main.dir
+D:/git/protobuf-3.7.1/cmake/build/solution/CMakeFiles/gmock.dir
+D:/git/protobuf-3.7.1/cmake/build/solution/CMakeFiles/tests.dir
+D:/git/protobuf-3.7.1/cmake/build/solution/CMakeFiles/test_plugin.dir
+D:/git/protobuf-3.7.1/cmake/build/solution/CMakeFiles/lite-arena-test.dir
+D:/git/protobuf-3.7.1/cmake/build/solution/CMakeFiles/check.dir
+D:/git/protobuf-3.7.1/cmake/build/solution/CMakeFiles/INSTALL.dir
+D:/git/protobuf-3.7.1/cmake/build/solution/CMakeFiles/ALL_BUILD.dir
+D:/git/protobuf-3.7.1/cmake/build/solution/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,16 @@
+D:/git/protobuf-3.7.1/cmake/build/debug/CMakeFiles/libprotobuf-lite.dir
+D:/git/protobuf-3.7.1/cmake/build/debug/CMakeFiles/protoc.dir
+D:/git/protobuf-3.7.1/cmake/build/debug/CMakeFiles/libprotoc.dir
+D:/git/protobuf-3.7.1/cmake/build/debug/CMakeFiles/libprotobuf.dir
+D:/git/protobuf-3.7.1/cmake/build/debug/CMakeFiles/lite-test.dir
+D:/git/protobuf-3.7.1/cmake/build/debug/CMakeFiles/gmock_main.dir
+D:/git/protobuf-3.7.1/cmake/build/debug/CMakeFiles/gmock.dir
+D:/git/protobuf-3.7.1/cmake/build/debug/CMakeFiles/tests.dir
+D:/git/protobuf-3.7.1/cmake/build/debug/CMakeFiles/test_plugin.dir
+D:/git/protobuf-3.7.1/cmake/build/debug/CMakeFiles/lite-arena-test.dir
+D:/git/protobuf-3.7.1/cmake/build/debug/CMakeFiles/check.dir
+D:/git/protobuf-3.7.1/cmake/build/debug/CMakeFiles/edit_cache.dir
+D:/git/protobuf-3.7.1/cmake/build/debug/CMakeFiles/rebuild_cache.dir
+D:/git/protobuf-3.7.1/cmake/build/debug/CMakeFiles/list_install_components.dir
+D:/git/protobuf-3.7.1/cmake/build/debug/CMakeFiles/install/local.dir
+D:/git/protobuf-3.7.1/cmake/build/debug/CMakeFiles/install.dir
